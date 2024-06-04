@@ -1,0 +1,22 @@
+*,
+*::after
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+h2{
+    color:blue;
+}
+
+.container{
+    border: black 1px solid
+}
+
+#hexInput {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
